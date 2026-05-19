@@ -1,0 +1,7 @@
+[https://tom.preston-werner.com/2009/05/19/the-git-parable](explains the git parable)
+[https://wyag.thb.lt/](actual code for the parable)
+[https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell](explains git branching)
+[https://git-scm.com/book/en/v2/Git-Internals-Git-Objects](explains git objects)
+[https://github.com/git/git](git source code)
+[https://www.leshenko.net/p/ugit/](implementation of git in python)
+[https://setuptools.pypa.io/en/latest/setuptools.html#automatic-script-creation](explains the python packages and tools used in the project)
