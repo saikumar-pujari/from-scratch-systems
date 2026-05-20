@@ -16,5 +16,5 @@ setup(name='ugit',
            ]}
       )
 
-# everytime we add a entrypoint we have a run the terminal to update the package as (pip install -e .)
+# everytime we add a entrypoint we have a run the terminal to update the package as (pip install -e .) then ugit
 # inside the ugit.egg-info/entry_points.txt file we can see the entry points that we have added.
