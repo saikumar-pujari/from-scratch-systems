@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Ethan Brooks",
+        "age": 28,
+        "gender": "Male",
+        "email": "ethan.brooks@example.com",
+        "phone": "+91-9876543210",
+        "city": "Bengaluru",
+        "country": "India",
+        "occupation": "Software Engineer",
+        "company": "TechNova",
+        "salary": 920000,
+        "is_active": true,
+        "skills": [
+            "Python",
+            "Django",
+            "PostgreSQL"
+        ],
+        "interests": [
+            "Travel",
+            "Photography",
+            "Gaming"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Sophia Carter",
+        "age": 25,
+        "gender": "Female",
+        "email": "sophia.carter@example.com",
+        "phone": "+91-9876543211",
+        "city": "Hyderabad",
+        "country": "India",
+        "occupation": "UI Designer",
+        "company": "PixelCraft",
+        "salary": 780000,
+        "is_active": true,
+        "skills": [
+            "Figma",
+            "Photoshop",
+            "React"
+        ],
+        "interests": [
+            "Art",
+            "Music",
+            "Reading"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Lucas Bennett",
+        "age": 31,
+        "gender": "Male",
+        "email": "lucas.bennett@example.com",
+        "phone": "+91-9876543212",
+        "city": "Pune",
+        "country": "India",
+        "occupation": "Data Analyst",
+        "company": "InsightIQ",
+        "salary": 1050000,
+        "is_active": false,
+        "skills": [
+            "SQL",
+            "Power BI",
+            "Excel"
+        ],
+        "interests": [
+            "Chess",
+            "Cycling",
+            "Cooking"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Emma Foster",
+        "age": 27,
+        "gender": "Female",
+        "email": "emma.foster@example.com",
+        "phone": "+91-9876543213",
+        "city": "Chennai",
+        "country": "India",
+        "occupation": "Backend Developer",
+        "company": "CloudNest",
+        "salary": 980000,
+        "is_active": true,
+        "skills": [
+            "Java",
+            "Spring Boot",
+            "Docker"
+        ],
+        "interests": [
+            "Fitness",
+            "Movies",
+            "Travel"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Noah Hayes",
+        "age": 29,
+        "gender": "Male",
+        "email": "noah.hayes@example.com",
+        "phone": "+91-9876543214",
+        "city": "Mumbai",
+        "country": "India",
+        "occupation": "DevOps Engineer",
+        "company": "SkyNet Solutions",
+        "salary": 1150000,
+        "is_active": true,
+        "skills": [
+            "AWS",
+            "Kubernetes",
+            "Terraform"
+        ],
+        "interests": [
+            "Hiking",
+            "Tech",
+            "Photography"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Olivia Reed",
+        "age": 24,
+        "gender": "Female",
+        "email": "olivia.reed@example.com",
+        "phone": "+91-9876543215",
+        "city": "Delhi",
+        "country": "India",
+        "occupation": "Product Manager",
+        "company": "Innovix",
+        "salary": 870000,
+        "is_active": false,
+        "skills": [
+            "Agile",
+            "Jira",
+            "Communication"
+        ],
+        "interests": [
+            "Writing",
+            "Yoga",
+            "Podcasts"
+        ]
+    }
+]
